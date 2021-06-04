@@ -289,7 +289,7 @@ img {
     flex-direction: column;
     align-items: center;
 }
-.services-icon{
+.icon-services{
     border-radius: 50%;
     border: 3px solid #adff00;
     width: 119px;
@@ -298,7 +298,4 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
-}
-.services-icon svg{
-
 }
